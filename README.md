@@ -1,13 +1,3 @@
-<div align="center">
-
-# Crispy
-
-**Crispy** is a machine learning platform designed to efficiently create video game montages. It utilizes neural networks to detect highlights within video game footage.
-
-[![Tech Stack](https://skillicons.dev/icons?i=python,svelte,ts,css,html,docker,bash,mongo,github)](https://skillicons.dev)
-
-</div>
-
 # Demo
 
 - [Live Demo](https://crispy.gyroskan.com/)
